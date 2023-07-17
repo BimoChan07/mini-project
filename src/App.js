@@ -13,8 +13,7 @@ if(recentDate>1 && recentDate<12){
   greeting = "Good Afternoon";
     cssStyle.color = "orange";
 }else if(recentDate>=20 && recentDate<=24){
-  greeting = "Good Evening";
-    cssStyle.color = "black";
+ 
 }
 
 };
