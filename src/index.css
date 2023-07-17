@@ -1,5 +1,5 @@
 body{
-  background-color:rgb(63, 62, 62);
+  background-color:rgb(239, 207, 207);
   box-sizing: border-box;
   margin: 0;
   padding: 0%;
@@ -18,8 +18,8 @@ div{
 
 h1{
   padding: 20px 20px;
-  background-color: #1e166d;
-  color: #da0ed3;
+  background-color: #300692;
+  color: #eb8787;
   border-radius: 20px;
 }
 

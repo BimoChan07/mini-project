@@ -8,11 +8,11 @@ const cssStyle = {};
 
 if(recentDate>1 && recentDate<12){
   greeting = "Good Morning";
-  cssStyle.color = "";
-}else if(recentDate>=12 && recentDate<20){
+  cssStyle.color = "#FFCC00";
+}else if(recentDate>=12 && recentDate<17){
   greeting = "Good Afternoon";
-    cssStyle.color = "orange";
-}else if(recentDate>=20 && recentDate<=24){
+    cssStyle.color = "#FF9900";
+}else if(recentDate>=17 && recentDate<=24){
   greeting = "Good Evening";
     cssStyle.color = "black";
 }
